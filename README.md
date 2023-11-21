@@ -1,5 +1,3 @@
-# Assignment-3
-
 Welcome to our custom built application to explore vector databses for efficient embedding search to generate prompt based on user specified content and questions in a large language model.
 
 # OPEN AI CHATBOT
